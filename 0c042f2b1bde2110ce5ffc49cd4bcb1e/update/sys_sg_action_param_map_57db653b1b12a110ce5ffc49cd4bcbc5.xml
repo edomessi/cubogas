@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Tutti)">93db653b1b12a110ce5ffc49cd4bcbbf</button>
+        <item_parameter display_value="Tutti id_componente_aggregato">97db653b1b12a110ce5ffc49cd4bcba3</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 07:55:08</sys_created_on>
+        <sys_id>57db653b1b12a110ce5ffc49cd4bcbc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>97db653b1b12a110ce5ffc49cd4bcba3</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_57db653b1b12a110ce5ffc49cd4bcbc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-26 07:55:08</sys_updated_on>
+        <ui_parameter display_value="ID_Componente_aggregato">d7db653b1b12a110ce5ffc49cd4bcbc1</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

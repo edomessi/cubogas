@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_canvas">
+    <par_dashboard_canvas action="INSERT_OR_UPDATE">
+        <dashboard display_value="Cubogas - Inventory &amp; Items picking">78e8e94e93e2e1508f1198b163ce6327</dashboard>
+        <dashboard_tab display_value="Calendario">107c1bd687a2611038d942280cbb354b</dashboard_tab>
+        <layout>[{"sys_id":"335ddb5a87a2611038d942280cbb35f9","x":0,"y":0,"w":48,"h":39,"name":"Commesse scadenza calendar","component_id":"259e0221ff18a75c5f5f0fb28fa5d32f","component_props":"{\"scoreSize\":\"md\",\"headingPosition\":\"top\",\"sparklineStyle\":\"area\",\"showScoreDate\":false,\"useRelativeScoreTime\":false,\"showScoreUpdateTime\":true,\"enableRealTimeUpdate\":true,\"showZero\":true,\"colorConfig\":{\"type\":\"default\"},\"dataSources\":[{\"isDatabaseView\":false,\"allowRealTime\":true,\"label\":\"Task\",\"sourceType\":\"table\",\"tableOrViewName\":\"task\",\"filterQuery\":\"active=true^priority=1\",\"id\":\"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==\",\"dataCategories\":[\"trend\",\"group\",\"simple\"]}],\"showHeader\":true,\"showTotalAggregate\":false,\"showSubAggregate\":false,\"showFirstGroupAggregate\":false,\"showSecondGroupAggregate\":false,\"wrapTitle\":false,\"showHeaderSeparator\":false,\"headerTitle\":\"Critical Tasks\",\"showBorder\":true,\"bareBorder\":false,\"showDataPassthrough\":false,\"dataPassthrough\":null,\"metrics\":[{\"dataSource\":\"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==\",\"id\":\"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNakkxTVRVeE1RPT0xNjUzODQyMjUyNzkw\",\"aggregateFunction\":\"COUNT\",\"numberFormat\":{\"customFormat\":false},\"axisId\":\"primary\"}],\"groupBy\":null,\"sortBy\":\"value\",\"sortByOrder\":\"desc\",\"trendBy\":null,\"showChange\":false,\"showChangePercentage\":false,\"showTarget\":false,\"showForecast\":false,\"showForecastRange\":false,\"showTrend\":false,\"showConfidenceBand\":false,\"showGapPercentage\":false,\"showSparkline\":false,\"showMetricLabel\":false,\"showThreshold\":false,\"showComment\":false,\"followFilters\":false,\"showFilterIcon\":true,\"enableDrilldown\":true,\"filterConfigurations\":[],\"showMaximumRange\":false,\"applyDateRange\":false,\"numberOfPeriods\":3,\"showAbsolutePeriod\":false,\"scoreType\":null,\"showChangeFrom\":false,\"period\":\"M\",\"dateFormat\":\"default\",\"hideMatrixAggregate\":false,\"newReporting\":false,\"configVersion\":\"23.0.0-ci-SNAPSHOT\",\"table\":\"x_snc_cubo_anagrafica_commesse\",\"reportSource\":\"\",\"encodedQuery\":\"data_consegnaONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()\",\"startDateField\":\"data_consegna\",\"endDateField\":\"data_consegna\",\"eventDisplayFields\":\"id_commessa,cliente\",\"componentTitle\":\"Commesse in scadenza questo mese\",\"showFilterOverview\":false,\"showDescription\":false,\"componentDescription\":\"\",\"viewType\":\"MONTH\",\"eventColor\":\"\"}","visualization":"7a8c57d687a2611038d942280cbb35df","can_edit":true}]</layout>
+        <sys_class_name>par_dashboard_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 10:31:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d87c1bd687a2611038d942280cbb354d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>par_dashboard_canvas_d87c1bd687a2611038d942280cbb354d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 10:37:32</sys_updated_on>
+    </par_dashboard_canvas>
+</record_update>

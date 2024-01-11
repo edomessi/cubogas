@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Presente Item">0f43646e87aa611038d942280cbb35c9</button>
+        <color_theme>positive</color_theme>
+        <description>Item presente</description>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Presente</label>
+        <location>leading_swipe</location>
+        <name>Presente</name>
+        <order>30</order>
+        <parent>06fd214a1b26e150ce5ffc49cd4bcb18</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 15:41:23</sys_created_on>
+        <sys_id>8343646e87aa611038d942280cbb35cf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Presente</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_8343646e87aa611038d942280cbb35cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 15:41:35</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=8343646e87aa611038d942280cbb35cf"/>
+</record_update>

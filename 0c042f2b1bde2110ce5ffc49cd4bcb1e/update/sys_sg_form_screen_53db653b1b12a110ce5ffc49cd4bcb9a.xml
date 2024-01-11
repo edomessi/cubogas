@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="List">9fdb653b1b12a110ce5ffc49cd4bcb98</icon>
+        <item_view/>
+        <name>Tutti</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 07:55:07</sys_created_on>
+        <sys_id>53db653b1b12a110ce5ffc49cd4bcb9a</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Tutti</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_form_screen_53db653b1b12a110ce5ffc49cd4bcb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-02 09:41:58</sys_updated_on>
+        <table>x_snc_cubo_anagrafica_workorder</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Tutti Detail Screen View Config">83db253b1b12a110ce5ffc49cd4bcbfd</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=53db653b1b12a110ce5ffc49cd4bcb9a"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>stato-FieldLabel</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 07:50:48</sys_created_on>
+        <sys_id>d00e254a1b26e150ce5ffc49cd4bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>stato-FieldLabel</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_d00e254a1b26e150ce5ffc49cd4bcb20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 07:50:48</sys_updated_on>
+        <view_config display_value="Da Lavorare Detail Screen View Config">080ee14a1b26e150ce5ffc49cd4bcbc6</view_config>
+        <view_template_slot display_value="text_04">5b4449fc41e35010f877183fc9b8be74</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

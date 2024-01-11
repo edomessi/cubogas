@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_base">
+    <ml_capability_definition_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <capability display_value="Composite">4025ed037741111053761c481e5a9923</capability>
+        <current_solution_version>2</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields/>
+        <filter/>
+        <pretrained>false</pretrained>
+        <request_source>api</request_source>
+        <solution_label>Issue Auto-Resolution</solution_label>
+        <solution_name>ml_x_snc_x_snc_cubo_global_issue_auto_resolution</solution_name>
+        <solution_parameters/>
+        <solution_properties>{"activities":[{"activityId":"type_adapter_lds","action":{"actionType":"type_adapter","boundSolutionConfig":{"solutionName":"","solutionVersion":""},"parameters":{"concatenateRecordIntoField":"short_description"},"capability":"","capabilityVersion":{"version":"","parameters":{}},"inputSource":"","jsonAdapter":{"INPUT":{"type":"sourceField","value":"","source":"input.short_description","jsonPath":"","isOutputList":false,"outputType":"STRING"}}},"next_activities":[{"activityId":"agent_zero_workflow","on_condition":{},"additionalOutputFields":{"serviceOutput":{"type":"jsonPath","value":"","source":"","jsonPath":"$..predictedValue"},"serviceOutputScore":{"type":"jsonPath","value":"","source":"","jsonPath":"$..confidence"},"serviceModelUsed":{"type":"jsonPath","value":"","source":"","jsonPath":"$..serviceModelUsed"},"service":{"type":"jsonPath","value":"","source":"","jsonPath":"$..service"},"serviceModelSolutionName":{"type":"jsonPath","value":"","source":"","jsonPath":"$..serviceModelSolutionName"},"serviceModelSolutionVersion":{"type":"jsonPath","value":"","source":"","jsonPath":"$..serviceModelSolutionVersion"},"serviceModelParentServiceName":{"type":"sourceField","value":"","source":"parameters.serviceModelParentServiceName","jsonPath":""},"serviceModelParentServiceVersion":{"type":"sourceField","value":"","source":"parameters.serviceModelParentServiceVersion","jsonPath":""}}}]},{"activityId":"agent_zero_workflow","action":{"actionType":"solution","boundSolutionConfig":{"solutionName":"ml_x_snc_global_global_auto_resolution_workflow_en"},"parameters":{"predictorOutputKey":"ml_prediction_results"},"capability":"workflow_trainer","capabilityVersion":{"version":"","parameters":{}},"inputSource":"type_adapter_lds","jsonAdapter":{}},"next_activities":[]}],"bindings":[],"inputs":{"input":{"fields":["short_description"]}},"label":"Issue Auto-Resolution","languageVersion":"0.2","name":"ml_x_snc_x_snc_cubo_global_issue_auto_resolution","outputs":{"output":["agent_zero_workflow"]},"solutionName":"Issue Auto-Resolution","solutionVersion":"1","taskType":"ITSM"}</solution_properties>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_base</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 16:04:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa03891a8703711038d942280cbb35a5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Issue Auto-Resolution</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>ml_capability_definition_base_fa03891a8703711038d942280cbb35a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 16:04:09</sys_updated_on>
+        <table/>
+        <training_frequency>run_once</training_frequency>
+        <triggered_source>API</triggered_source>
+        <word_vector_corpus/>
+    </ml_capability_definition_base>
+</record_update>

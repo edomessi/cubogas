@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7bce535e87a2611038d942280cbb35ea" extends="sn_itam_common_loaner_asset_order" label="Ordine asset in prestito" max_length="40" name="x_snc_cubo_ordine_di_magazzino" type="collection">
+        <element label="Work Order Item" max_length="32" name="work_order_item" reference="x_snc_cubo_workorder_item" type="reference"/>
+    </element>
+</database>

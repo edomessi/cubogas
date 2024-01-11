@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="jump to incidents at risk list">266086ef533f33009032ddeeff7b12c9</jump_to_screen>
+        <name>Commesse in lavorazione</name>
+        <report display_value="In lavorazione">e29e83161b26a550ce5ffc49cd4bcb4f</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 09:33:39</sys_created_on>
+        <sys_id>2c2f0b9a1b26a550ce5ffc49cd4bcb0c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Commesse in lavorazione</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_chart_2c2f0b9a1b26a550ce5ffc49cd4bcb0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 09:34:06</sys_updated_on>
+        <title>Commesse in lavorazione</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

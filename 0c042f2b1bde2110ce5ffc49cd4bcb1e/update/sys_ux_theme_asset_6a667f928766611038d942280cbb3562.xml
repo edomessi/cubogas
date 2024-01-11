@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="INSERT_OR_UPDATE">
+        <category>image</category>
+        <name>CuboGas (3)</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 12:25:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6a667f928766611038d942280cbb3562</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CuboGas (3)</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_6a667f928766611038d942280cbb3562</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 12:25:16</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <encryption_context/>
+        <file_name>CuboGas (3).jpeg</file_name>
+        <hash>51a47a567ead0664a388e351bc13b48aa2b7e590893d5df6e1ade85fef73d5ef</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4220</size_bytes>
+        <size_compressed>4207</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 12:25:16</sys_created_on>
+        <sys_id>62667f1a8766611038d942280cbb35ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-04 12:25:16</sys_updated_on>
+        <table_name>sys_ux_theme_asset</table_name>
+        <table_sys_id>6a667f928766611038d942280cbb3562</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="CuboGas (3).jpeg" sys_id="62667f1a8766611038d942280cbb35ca">62667f1a8766611038d942280cbb35ca</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 12:25:16</sys_created_on>
+        <sys_id>a2667f1a8766611038d942280cbb35ca</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5596</length>
+        <position>1</position>
+        <sys_attachment display_value="CuboGas (3).jpeg" sys_id="62667f1a8766611038d942280cbb35ca">62667f1a8766611038d942280cbb35ca</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 12:25:16</sys_created_on>
+        <sys_id>26667f1a8766611038d942280cbb35ca</sys_id>
+    </sys_attachment_doc>
+</record_update>

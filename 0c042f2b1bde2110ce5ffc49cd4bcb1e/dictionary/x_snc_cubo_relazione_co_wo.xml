@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de45232f1bde2110ce5ffc49cd4bcbfa" label="relazione_CO_WO" max_length="40" name="x_snc_cubo_relazione_co_wo" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="ID commessa" max_length="32" name="id_commessa" reference="x_snc_cubo_anagrafica_commesse" type="reference"/>
+        <element attributes="encode_utf8=false" label="ID_workorder" max_length="32" name="id_workorder" reference="x_snc_cubo_anagrafica_workorder" type="reference"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="id_commessa"/>
+        </index>
+        <index name="index2">
+            <element name="id_workorder"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (JL Work Orders)">d7adf4b91bee2150ce5ffc49cd4bcb27</button>
+        <item_parameter display_value="JL Work Orders id_componente_aggregato">4badf4b91bee2150ce5ffc49cd4bcb23</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-02 09:41:11</sys_created_on>
+        <sys_id>13adf4b91bee2150ce5ffc49cd4bcb3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4badf4b91bee2150ce5ffc49cd4bcb23</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_13adf4b91bee2150ce5ffc49cd4bcb3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-02 09:41:11</sys_updated_on>
+        <ui_parameter display_value="ID_Componente_aggregato">13adf4b91bee2150ce5ffc49cd4bcb37</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

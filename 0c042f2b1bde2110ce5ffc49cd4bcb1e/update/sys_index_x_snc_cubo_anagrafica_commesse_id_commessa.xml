@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>id_commessa</col_name_string>
+        <index_col_name element="id_commessa" name="x_snc_cubo_anagrafica_commesse">49642b6b1bde2110ce5ffc49cd4bcbde</index_col_name>
+        <logical_table_name>x_snc_cubo_anagrafica_commesse</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-04-25 22:31:03</sys_created_on>
+        <sys_id>acca2f638716611038d942280cbb355f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cubo_anagrafica_commesse</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_index_x_snc_cubo_anagrafica_commesse_id_commessa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-25 22:31:03</sys_updated_on>
+        <table display_value="anagrafica_commesse" name="x_snc_cubo_anagrafica_commesse">ac642b6b1bde2110ce5ffc49cd4bcb34</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>

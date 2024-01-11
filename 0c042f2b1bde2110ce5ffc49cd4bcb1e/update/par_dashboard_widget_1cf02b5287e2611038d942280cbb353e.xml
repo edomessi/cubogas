@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">7ce8e94eb6e2e15085ab44bcc1169f29</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"newReporting":false,"showSparkline":false,"dataPassthrough":null,"configVersion":"23.0.0-ci-SNAPSHOT","groupBy":null,"trendBy":null,"showMaximumRange":false,"enableRealTimeUpdate":false,"scoreType":null,"showScoreUpdateTime":false,"colorConfig":{"type":"default"},"showFilterIcon":true,"followFilters":true,"applyDateRange":false,"showChange":false,"showTarget":false,"showGapPercentage":false,"showScoreDate":false,"showChangePercentage":false,"showChangeFrom":false,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Ordine di magazzino","sourceType":"table","tableOrViewName":"x_snc_cubo_ordine_di_magazzino","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X3NuY19jdWJvX29yZGluZV9kaV9tYWdhenppbm8xNjgzMTk3MjY1ODk5","dataCategories":["trend","group","simple"]}],"metrics":[{"dataSource":"dGFibGV4X3NuY19jdWJvX29yZGluZV9kaV9tYWdhenppbm8xNjgzMTk3MjY1ODk5","id":"ZEdGaWJHVjRYM051WTE5amRXSnZYMjl5WkdsdVpWOWthVjl0WVdkaGVucHBibTh4Tmpnek1UazNNalkxT0RrNTE2ODMxOTcyNjcyNzk=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"showDataPassthrough":false,"headerTitle":"Ordini di magazzino","showHeader":true,"showBorder":true,"bareBorder":false,"showMetricLabel":false,"showZero":true,"enableCustomEmptyState":false,"enableDrilldown":true,"iconStyle":"background"}</component_props>
+        <h>12</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 10:51:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>1cf02b5287e2611038d942280cbb353e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>par_dashboard_widget_1cf02b5287e2611038d942280cbb353e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 10:51:27</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <widget_props/>
+        <x>23</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

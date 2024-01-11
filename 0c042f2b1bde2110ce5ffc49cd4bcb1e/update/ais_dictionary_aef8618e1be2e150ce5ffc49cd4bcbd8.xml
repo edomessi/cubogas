@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_snc_cubo_anagrafica_commesse,x_snc_cubo_relazione_wo_raw,x_snc_cubo_relazione_co_wo,x_snc_cubo_workorder_item,x_snc_cubo_anagrafica_raw,x_snc_cubo_anagrafica_workorder</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>cubo search profile Default Spell Check Dictionary</label>
+        <last_derived>2024-01-11 04:26:56</last_derived>
+        <locale>en</locale>
+        <name>x_snc_cubo_cubo_search_profile_default_spell_check_dictionary</name>
+        <publish_id>76799e58-a326-4d5f-978a-83e3bb76e054</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 07:28:51</sys_created_on>
+        <sys_id>aef8618e1be2e150ce5ffc49cd4bcbd8</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>x_snc_cubo_cubo_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>ais_dictionary_aef8618e1be2e150ce5ffc49cd4bcbd8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 07:28:54</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

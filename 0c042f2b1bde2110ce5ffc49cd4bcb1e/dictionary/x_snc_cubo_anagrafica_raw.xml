@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f1f4e3eb1bde2110ce5ffc49cd4bcb03" label="anagrafica_raw" max_length="40" name="x_snc_cubo_anagrafica_raw" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="A data" max_length="40" name="a_data" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data cr." max_length="40" name="data_cr" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ID raw" max_length="40" name="id_raw" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="N. mod." max_length="40" name="n_mod" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="testo breve raw" max_length="40" name="testo_breve_raw" type="string"/>
+        <element label="workorder" max_length="32" name="workorder" reference="x_snc_cubo_anagrafica_workorder" type="reference"/>
+        <index name="index">
+            <element name="workorder"/>
+        </index>
+    </element>
+</database>

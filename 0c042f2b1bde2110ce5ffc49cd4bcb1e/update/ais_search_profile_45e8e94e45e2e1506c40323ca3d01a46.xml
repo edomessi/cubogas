@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Cubo</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>cubo search profile</label>
+        <name>x_snc_cubo_kxylq_search_profile</name>
+        <publish_id>1619b36a-50db-4e94-8d8d-7609bb04c7e7</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 07:28:29</sys_created_on>
+        <sys_id>45e8e94e45e2e1506c40323ca3d01a46</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>cubo search profile</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>ais_search_profile_45e8e94e45e2e1506c40323ca3d01a46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 15:18:39</sys_updated_on>
+    </ais_search_profile>
+</record_update>

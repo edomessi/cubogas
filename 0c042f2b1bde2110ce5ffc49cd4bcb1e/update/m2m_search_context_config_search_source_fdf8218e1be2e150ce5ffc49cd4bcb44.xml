@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>400</order>
+        <search_context_config display_value="Cubo - Workspace Search">45e8e94eb3e2e15043e56902f8377e42</search_context_config>
+        <source display_value="Cubo - x_snc_cubo_workorder_item">29f8ed4e1be2e150ce5ffc49cd4bcbc0</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 07:28:47</sys_created_on>
+        <sys_id>fdf8218e1be2e150ce5ffc49cd4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_fdf8218e1be2e150ce5ffc49cd4bcb44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 07:28:47</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

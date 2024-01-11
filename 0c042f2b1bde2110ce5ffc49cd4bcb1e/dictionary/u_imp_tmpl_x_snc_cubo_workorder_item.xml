@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0a0a61771b12a110ce5ffc49cd4bcb7f" extends="sys_import_set_row" label="Imp Tmpl X Snc Cubo Workorder Item" max_length="40" name="u_imp_tmpl_x_snc_cubo_workorder_item" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID raw" label="ID raw" max_length="40" name="u_id_raw" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID workorder" label="ID workorder" max_length="32" name="u_id_workorder" type="string"/>
+        <element attributes="import_attribute_name=Pos." label="Pos." max_length="40" name="u_pos_" type="integer"/>
+        <element attributes="import_attribute_name=Qtà" label="Qtà" max_length="40" name="u_qtà" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Testo breve materiale" label="Testo breve materiale" max_length="40" name="u_testo_breve_materiale" type="string"/>
+    </element>
+</database>

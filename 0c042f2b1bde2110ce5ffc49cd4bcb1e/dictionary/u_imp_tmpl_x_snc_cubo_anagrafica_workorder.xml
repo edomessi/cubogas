@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e6962faf1bde2110ce5ffc49cd4bcb53" extends="sys_import_set_row" label="Imp Tmpl X Snc Cubo Anagrafica Workorder" max_length="40" name="u_imp_tmpl_x_snc_cubo_anagrafica_workorder" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Descrizione_workorder" label="Descrizione_workorder" max_length="40" name="u_descrizione_workorder" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_Componente_aggregato" label="ID_Componente_aggregato" max_length="40" name="u_id_componente_aggregato" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_workorder" label="ID_workorder" max_length="40" name="u_id_workorder" type="string"/>
+    </element>
+</database>

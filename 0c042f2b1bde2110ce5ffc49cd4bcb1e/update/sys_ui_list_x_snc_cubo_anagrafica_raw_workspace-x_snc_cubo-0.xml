@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_cubo_anagrafica_raw" version="2" view="workspace-cubo-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>a_data</element>
+            <list_id display_value="x_snc_cubo_anagrafica_raw" element="NULL" name="x_snc_cubo_anagrafica_raw" parent="NULL" relationship="NULL" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">8a09e58e1be2e150ce5ffc49cd4bcbb7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-03 07:29:05</sys_created_on>
+            <sys_id>c209e58e1be2e150ce5ffc49cd4bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-03 07:29:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_cr</element>
+            <list_id display_value="x_snc_cubo_anagrafica_raw" element="NULL" name="x_snc_cubo_anagrafica_raw" parent="NULL" relationship="NULL" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">8a09e58e1be2e150ce5ffc49cd4bcbb7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-03 07:29:05</sys_created_on>
+            <sys_id>c609e58e1be2e150ce5ffc49cd4bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-03 07:29:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id_raw</element>
+            <list_id display_value="x_snc_cubo_anagrafica_raw" element="NULL" name="x_snc_cubo_anagrafica_raw" parent="NULL" relationship="NULL" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">8a09e58e1be2e150ce5ffc49cd4bcbb7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-03 07:29:05</sys_created_on>
+            <sys_id>ca09e58e1be2e150ce5ffc49cd4bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-03 07:29:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>n_mod</element>
+            <list_id display_value="x_snc_cubo_anagrafica_raw" element="NULL" name="x_snc_cubo_anagrafica_raw" parent="NULL" relationship="NULL" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">8a09e58e1be2e150ce5ffc49cd4bcbb7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-03 07:29:05</sys_created_on>
+            <sys_id>ce09e58e1be2e150ce5ffc49cd4bcbb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-03 07:29:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>testo_breve_raw</element>
+            <list_id display_value="x_snc_cubo_anagrafica_raw" element="NULL" name="x_snc_cubo_anagrafica_raw" parent="NULL" relationship="NULL" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">8a09e58e1be2e150ce5ffc49cd4bcbb7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-03 07:29:05</sys_created_on>
+            <sys_id>c209e58e1be2e150ce5ffc49cd4bcbb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-03 07:29:05</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_cubo_anagrafica_raw</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-03 07:29:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a09e58e1be2e150ce5ffc49cd4bcbb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_cubo_anagrafica_raw</sys_name>
+            <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_cubo_anagrafica_raw_Workspace-x_snc_cubo-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-03 07:29:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Cubo 0" name="workspace-cubo-0">0de8e94ed1e2e150b4961a339d551b2f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

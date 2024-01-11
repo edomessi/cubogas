@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_05_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 10:14:05</sys_created_on>
+        <sys_id>fc68d31a1ba6a550ce5ffc49cd4bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_05_element</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_fc68d31a1ba6a550ce5ffc49cd4bcbae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 10:14:05</sys_updated_on>
+        <view_config display_value="Prodotto Cubogas">4bd753d61ba6a550ce5ffc49cd4bcb28</view_config>
+        <view_template_slot display_value="text_05">6c10c6a477911110dc25a5ed5b5a9943</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

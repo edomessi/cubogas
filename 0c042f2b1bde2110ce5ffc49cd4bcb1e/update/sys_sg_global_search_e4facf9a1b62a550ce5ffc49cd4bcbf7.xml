@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search">
+    <sys_sg_global_search action="INSERT_OR_UPDATE">
+        <default_empty_state/>
+        <filtered_empty_state/>
+        <interleave>true</interleave>
+        <name>Workorder Search</name>
+        <placeholder>Cerca tra workorder, asset...</placeholder>
+        <search_context_config display_value="Cubo AI Search Configuration">3ce8e94ef0e2e15095b7de23575f9f2c</search_context_config>
+        <sys_class_name>sys_sg_global_search</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 09:16:03</sys_created_on>
+        <sys_id>e4facf9a1b62a550ce5ffc49cd4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workorder Search</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_global_search_e4facf9a1b62a550ce5ffc49cd4bcbf7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 09:16:03</sys_updated_on>
+        <vision_api_enabled>false</vision_api_enabled>
+    </sys_sg_global_search>
+</record_update>

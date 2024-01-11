@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="629463ab1bde2110ce5ffc49cd4bcbc1" label="anagrafica_workorder" max_length="40" name="x_snc_cubo_anagrafica_workorder" text_index="true" type="collection">
+        <element label="Commessa" max_length="32" name="commessa" reference="x_snc_cubo_anagrafica_commesse" type="reference"/>
+        <element label="Data consegna" max_length="255" name="data_consegna" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Descrizione" max_length="40" name="descrizione_workorder" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID Componente Aggregato" max_length="40" name="id_componente_aggregato" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ID Workorder" max_length="40" name="id_workorder" type="string"/>
+        <element choice="3" label="Stato" max_length="40" name="stato" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Nuovo" sequence="0" value="nuovo"/>
+                <element inactive_on_update="false" label="Parziale" sequence="1" value="parziale"/>
+                <element inactive_on_update="false" label="Evaso" sequence="2" value="Evaso"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="commessa"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

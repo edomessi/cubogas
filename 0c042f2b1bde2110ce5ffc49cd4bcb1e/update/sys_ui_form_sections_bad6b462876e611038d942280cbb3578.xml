@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="bad6b462876e611038d942280cbb3578" sys_domain="global" table="x_snc_cubo_workorder_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-04 17:06:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ed6b462876e611038d942280cbb357a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_cubo_workorder_item" name="x_snc_cubo_workorder_item" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">bad6b462876e611038d942280cbb3578</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_cubo_workorder_item" sys_domain="global" view="0de8e94ed1e2e150b4961a339d551b2f">8ab17ce6872e611038d942280cbb353e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-04 17:08:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_cubo_workorder_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-04 17:06:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bad6b462876e611038d942280cbb3578</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_cubo_workorder_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bad6b462876e611038d942280cbb3578</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-04 17:06:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Cubo 0" name="workspace-cubo-0">0de8e94ed1e2e150b4961a339d551b2f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">bedb253b1b12a110ce5ffc49cd4bcb38</embedded_screen>
+        <form display_value="Da Lavorare Form Screen">36db253b1b12a110ce5ffc49cd4bcb38</form>
+        <header_view_config display_value="Da Lavorare Detail Screen View Config">6edbe13b1b12a110ce5ffc49cd4bcbfe</header_view_config>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-26 07:55:05</sys_created_on>
+        <sys_id>f2db253b1b12a110ce5ffc49cd4bcb49</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_sg_form_segment_f2db253b1b12a110ce5ffc49cd4bcb49</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-26 13:37:19</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

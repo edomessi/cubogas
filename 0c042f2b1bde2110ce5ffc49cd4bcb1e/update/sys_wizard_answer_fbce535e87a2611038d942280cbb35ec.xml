@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Ordine di magazzino</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Ordine di magazzino</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">acfbb51a1b212110ce5ffc49cd4bcbb9</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-04 10:42:09</sys_created_on>
+        <sys_id>fbce535e87a2611038d942280cbb35ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ordine di magazzino</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>sys_wizard_answer_fbce535e87a2611038d942280cbb35ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-04 10:42:09</sys_updated_on>
+        <table/>
+        <target_url>x_snc_cubo_ordine_di_magazzino.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

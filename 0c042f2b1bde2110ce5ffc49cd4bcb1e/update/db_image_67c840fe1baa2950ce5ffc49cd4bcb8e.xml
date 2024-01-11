@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>32</height>
+        <image>fee884be1baa2950ce5ffc49cd4bcb53</image>
+        <name>cubogas.png</name>
+        <size_bytes>2367</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 08:24:32</sys_created_on>
+        <sys_id>67c840fe1baa2950ce5ffc49cd4bcb8e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>cubogas.png</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>db_image_67c840fe1baa2950ce5ffc49cd4bcb8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:24:37</sys_updated_on>
+        <thumbnail/>
+        <width>32</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#63a3b1</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>image</file_name>
+        <hash>a7b2ac9e3e4bff8f5450dfbd384a3ff2119db81519847d98ad56be7630afa961</hash>
+        <image_height>32</image_height>
+        <image_width>32</image_width>
+        <size_bytes>2367</size_bytes>
+        <size_compressed>2390</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 08:24:36</sys_created_on>
+        <sys_id>fee884be1baa2950ce5ffc49cd4bcb53</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-05 08:24:37</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>67c840fe1baa2950ce5ffc49cd4bcb8e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="fee884be1baa2950ce5ffc49cd4bcb53">fee884be1baa2950ce5ffc49cd4bcb53</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 08:24:36</sys_created_on>
+        <sys_id>32e884be1baa2950ce5ffc49cd4bcb54</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3176</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="fee884be1baa2950ce5ffc49cd4bcb53">fee884be1baa2950ce5ffc49cd4bcb53</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-05 08:24:36</sys_created_on>
+        <sys_id>b2e884be1baa2950ce5ffc49cd4bcb54</sys_id>
+    </sys_attachment_doc>
+</record_update>

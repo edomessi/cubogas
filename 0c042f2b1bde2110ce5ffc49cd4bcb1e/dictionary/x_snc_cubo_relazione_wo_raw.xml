@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8db5ef2f1bde2110ce5ffc49cd4bcbd4" label="relazione_wo_raw" max_length="40" name="x_snc_cubo_relazione_wo_raw" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="ID raw" max_length="32" name="id_raw" reference="x_snc_cubo_anagrafica_raw" type="reference"/>
+        <element attributes="encode_utf8=false" label="ID workorder" max_length="32" name="id_workorder" reference="x_snc_cubo_anagrafica_workorder" type="reference"/>
+        <element label="Pos." max_length="40" name="pos" type="integer"/>
+        <element label="Qtà" max_length="40" name="qt" type="integer"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="id_raw"/>
+        </index>
+        <index name="index2">
+            <element name="id_workorder"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

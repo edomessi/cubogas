@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cert_instance">
+    <cert_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assign_to/>
+        <assign_to_empty>Create Unassigned Task</assign_to_empty>
+        <assign_to_group/>
+        <assignment_type>User Field</assignment_type>
+        <audit_type>data_cert</audit_type>
+        <business_calendar/>
+        <cert_audit_instance/>
+        <cert_condition/>
+        <cert_schedule display_value="Verify your Asset">894aa1081bfee110ce5ffc49cd4bcb33</cert_schedule>
+        <complete_by>2023-05-19 12:43:53</complete_by>
+        <completed/>
+        <condition/>
+        <conditional>false</conditional>
+        <create_tasks>false</create_tasks>
+        <display_fields>asset_tag,display_name</display_fields>
+        <entered_time/>
+        <fields>assigned_to</fields>
+        <filter display_value="check your asset - 1">607829041bfee110ce5ffc49cd4bcb85</filter>
+        <group display_value="ESC - Non Managers" name="ESC - Non Managers">d2b3ef65876374109d8aa9373cbb35a0</group>
+        <health_window>7</health_window>
+        <health_window_unit>days</health_window_unit>
+        <instructions/>
+        <is_building>false</is_building>
+        <last_run_date/>
+        <max_drift/>
+        <name>Verify your Asset</name>
+        <next_scheduled_run/>
+        <number>CRTINST0010002</number>
+        <offset/>
+        <offset_type>0</offset_type>
+        <percent_complete>0</percent_complete>
+        <prev_last_run_date/>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-05-09 12:43:53</run_start>
+        <run_time>1969-12-31 23:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[ ]]></script>
+        <short_description/>
+        <stability_count>1</stability_count>
+        <state>2</state>
+        <sys_class_name>cert_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 12:43:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>779aad0c87ba6d1038d942280cbb357b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Verify your Asset</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>cert_instance_779aad0c87ba6d1038d942280cbb357b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 12:45:35</sys_updated_on>
+        <table>alm_asset</table>
+        <task_description>Remedy the discrepancies listed in the Audit Results below</task_description>
+        <template/>
+        <threshold_count>5</threshold_count>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <user/>
+    </cert_instance>
+</record_update>

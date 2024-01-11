@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="36b7af231b126110ce5ffc49cd4bcb79" extends="sys_import_set_row" label="Imp Tmpl X Snc Cubo Relazione Co Wo" max_length="40" name="u_imp_tmpl_x_snc_cubo_relazione_co_wo" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID commessa" label="ID commessa" max_length="32" name="u_id_commessa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_workorder" label="ID_workorder" max_length="32" name="u_id_workorder" type="string"/>
+    </element>
+</database>

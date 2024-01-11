@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="stato" table="x_snc_cubo_anagrafica_workorder" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>stato</element>
+            <name>x_snc_cubo_anagrafica_workorder</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:29:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>stato</sys_name>
+            <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cubo_anagrafica_workorder_stato</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:29:17</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stato</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nuovo</label>
+            <language>en</language>
+            <name>x_snc_cubo_anagrafica_workorder</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:29:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:29:17</sys_updated_on>
+            <value>nuovo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stato</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Parziale</label>
+            <language>en</language>
+            <name>x_snc_cubo_anagrafica_workorder</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:29:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:29:17</sys_updated_on>
+            <value>parziale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>stato</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Evaso</label>
+            <language>en</language>
+            <name>x_snc_cubo_anagrafica_workorder</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-26 07:29:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-26 07:29:17</sys_updated_on>
+            <value>Evaso</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

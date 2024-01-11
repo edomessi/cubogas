@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7077e3231b126110ce5ffc49cd4bcbfd" extends="sys_import_set_row" label="Imp Tmpl X Snc Cubo Anagrafica Raw" max_length="40" name="u_imp_tmpl_x_snc_cubo_anagrafica_raw" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=A data" label="A data" max_length="40" name="u_a_data" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data cr." label="Data cr." max_length="40" name="u_data_cr_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID raw" label="ID raw" max_length="40" name="u_id_raw" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=N. mod." label="N. mod." max_length="40" name="u_n__mod_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=testo breve raw" label="testo breve raw" max_length="40" name="u_testo_breve_raw" type="string"/>
+    </element>
+</database>

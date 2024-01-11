@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Cubogas - Inventory &amp; Items picking">78e8e94e93e2e1508f1198b163ce6327</dashboard>
+        <group/>
+        <role display_value="x_snc_cubo.admin" name="x_snc_cubo.admin">90042f2b1bde2110ce5ffc49cd4bcb52</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 07:28:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d3e86d4e1be2e150ce5ffc49cd4bcb5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>78e8e94e93e2e1508f1198b163ce6327</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>par_dashboard_permission_d3e86d4e1be2e150ce5ffc49cd4bcb5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 07:28:37</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

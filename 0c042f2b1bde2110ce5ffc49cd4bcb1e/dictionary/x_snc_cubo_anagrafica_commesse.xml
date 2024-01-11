@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ac642b6b1bde2110ce5ffc49cd4bcb34" label="anagrafica_commesse" max_length="40" name="x_snc_cubo_anagrafica_commesse" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cliente" max_length="58" name="cliente" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Consegna" max_length="40" name="data_consegna" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="ID commessa" mandatory="true" max_length="40" name="id_commessa" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Paese" max_length="40" name="paese" type="string"/>
+        <element label="Quantità" max_length="40" name="qta" type="integer"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index" unique="true">
+            <element name="id_commessa"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

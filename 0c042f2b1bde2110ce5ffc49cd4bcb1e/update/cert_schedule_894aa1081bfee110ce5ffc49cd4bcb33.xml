@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cert_schedule">
+    <cert_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <assign_to/>
+        <assign_to_empty>Create Unassigned Task</assign_to_empty>
+        <assign_to_group/>
+        <assignment_type>Specific Group</assignment_type>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <days_to_complete>10</days_to_complete>
+        <display_fields>asset_tag,display_name</display_fields>
+        <entered_time/>
+        <fields>assigned_to</fields>
+        <filter display_value="check your asset - 1">607829041bfee110ce5ffc49cd4bcb85</filter>
+        <group display_value="ESC - Non Managers" name="ESC - Non Managers">d2b3ef65876374109d8aa9373cbb35a0</group>
+        <instructions/>
+        <last_run_date>2023-05-09 12:43:53</last_run_date>
+        <max_drift/>
+        <name>Verify your Asset</name>
+        <next_scheduled_run/>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-05-09 12:42:20</run_start>
+        <run_time>1969-12-31 23:00:00</run_time>
+        <run_type>on_demand</run_type>
+        <script><![CDATA[new global.CertificationTaskCreate().runCerts();]]></script>
+        <sys_class_name>cert_schedule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 12:43:44</sys_created_on>
+        <sys_id>894aa1081bfee110ce5ffc49cd4bcb33</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Verify your Asset</sys_name>
+        <sys_package display_value="Cubo" source="x_snc_cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cubo">0c042f2b1bde2110ce5ffc49cd4bcb1e</sys_scope>
+        <sys_update_name>cert_schedule_894aa1081bfee110ce5ffc49cd4bcb33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 12:43:53</sys_updated_on>
+        <table>alm_asset</table>
+        <task_description>Verifica i tuoi asset</task_description>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <user/>
+    </cert_schedule>
+</record_update>
